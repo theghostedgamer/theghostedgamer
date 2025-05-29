@@ -17,13 +17,13 @@
 <img src="https://komarev.com/ghpvc/?username=theghostedgamer&style=flat-square&color=blue" alt=""/>
 
 <h1>
-  hey there
+  hello
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning lua and python
+- 📫 How to reach me: discord: ghostdeadman
+- ⚡ Fun fact: i'm double jointed and missing an organ :)
 -->
 
 ### :fire: My Stats :
