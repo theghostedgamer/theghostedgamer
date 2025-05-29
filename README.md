@@ -24,7 +24,7 @@
 - 🌱 I’m currently learning lua and python
 - 📫 How to reach me: discord: ghostdeadman
 - ⚡ Fun fact: i'm double jointed and missing an organ :)
--->
+
 
 ### :fire: My Stats :
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=theghostedgamer&theme=dark&background=000000)](https://git.io/streak-stats)
