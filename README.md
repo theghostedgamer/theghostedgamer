@@ -21,8 +21,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-Here are some ideas to get you started:
-
 - 🌱 I’m currently learning ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
@@ -38,4 +36,6 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 </div>
-  
+
+### :fire: My Stats :
+  https://github-readme-streak-stats.herokuapp.com/?user=theghostedgamer
